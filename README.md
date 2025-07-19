@@ -21,7 +21,6 @@ This project explores trends in electric vehicle (EV) adoption using the IEA Glo
 ## 📌 Status
 - ✅ Python analysis complete
 - 🔜 Power BI visualizations in progress
-- 🔜 LinkedIn case study will follow
 
 ## 📎 Data Source
 IEA Global EV Outlook 2024 – (https://www.kaggle.com/datasets/javeria13/market-size-of-evs-case-study)
